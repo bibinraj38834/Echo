@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Echo</string>
+    <string name="discover_music">Discover Music</string>
+    <string name="explore">Explore</string>
+    <string name="genre">genre</string>
+    <string name="popular_songs">Popular Songs</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="clear">Clear</string>
+    <string name="popular_genres">Popular Genres</string>
+    <string name="play">Play</string>
+</resources>
